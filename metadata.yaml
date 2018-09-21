@@ -18,7 +18,12 @@ contributor:
     gutenberg_agent_id: '102'
     url: http://www.gutenberg.org/2009/agents/102
     wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+covers:
+- cover_type: archival
+  image_path: 53683-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53683#Bronson-Alcott-s-Fruitlands-compiled-by-Clara-Endicott-Sears-With-Transcendental-Wild-Oats-by_
 gutenberg_issued: '2016-12-07'
 gutenberg_type: Text
 identifiers:
